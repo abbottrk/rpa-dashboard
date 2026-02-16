@@ -1,7 +1,8 @@
-fastapi
-uvicorn
 streamlit
 pandas
+streamlit-autorefresh
 requests
 psycopg2-binary
 sqlalchemy
+fastapi
+uvicorn
